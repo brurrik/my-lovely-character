@@ -6,7 +6,7 @@ body {
     line-height: 22px;
 }
 header {
-    background-color: #fcc41c;
+    background-color: #FAA4FF;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -20,7 +20,7 @@ header img{
     width: 300px;
     height: 300px;
     object-fit: cover;
-    border: 20px solid #0464a4;
+    border: 20px solid beige;
 
 }
 h1, h2{
@@ -38,13 +38,13 @@ main img {
 }
 h2 {
     font-size: 40px;
-    color: #fcc41c;
+    color: #A3B9CD;
 }
 p {
     font-size: 20px;
 }
 a {
-    color: #fcc41c;
+    color: #A3B9CD;
 
 }
 a:hover {
@@ -52,7 +52,7 @@ a:hover {
     color: #f4f4fc;
 }
 footer{
-    background-color: #fcc41c;
+    background-color: #FAA4FF;
     text-align: center;
     padding: 30px;
 }
